@@ -3209,6 +3209,7 @@ function scr_KSW_SetFishes()
 	scr_KSW_AddFish("Junkil",spr_KSW_Fish_Junkil,spr_KSW_Fish_Junkil_Pal,series_deltaruneChapterRewritten,legion,2,cloudyPark,KSW_Phases.night,1000,-20,-13);
 	scr_KSW_AddFish("Junkil Redux",spr_KSW_Fish_Junkil_Redux,spr_KSW_Fish_Junkil_Redux_Pal,series_deltaruneChapterRewritten,legion,3,cloudyPark,KSW_Phases.night,5500,-37,-23);
 	scr_KSW_AddFish("Worldsmith",spr_KSW_Fish_Worldsmith,spr_KSW_Fish_Worldsmith_Pal,series_deltaruneChapterRewritten,mint,3,hallowReen,KSW_Phases.night,80000,-100,-33);
+	scr_KSW_AddFish("The Fallen Star",spr_KSW_Fish_The_Fallen_Star,spr_KSW_Fish_The_Fallen_Star_Pal,series_deltaruneChapterRewritten,mage,3,hallowReen,KSW_Phases.night,2750,-27,-23);
 	scr_KSW_AddFish("Blizzaurus",spr_KSW_Fish_Blizzaurus,spr_KSW_Fish_Blizzaurus_Pal,series_SuperMario,mage,2,creamCrevasse,KSW_Phases.none,8000,-13,-15);
 	scr_KSW_AddFish("Blizzaurus (Dragon)",spr_KSW_Fish_Blizzaurus_Dragon,spr_KSW_Fish_Blizzaurus_Dragon_Pal,series_SuperMario,mage,3,creamCrevasse,KSW_Phases.none,13000,-55,-22);
 	scr_KSW_AddFish("Mellow",spr_KSW_Fish_Mellow,spr_KSW_Fish_Mellow_Pal,series_endacopia,candy,2,androidPort,KSW_Phases.none,550,-33,-28);
