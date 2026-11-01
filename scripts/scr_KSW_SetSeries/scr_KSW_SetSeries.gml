@@ -182,5 +182,6 @@ function scr_KSW_SetSeries()
 	scr_KSW_AddSeries("endacopia","Endacopia");
 	scr_KSW_AddSeries("FNaC","Five Nights at Candy's");
 	scr_KSW_AddSeries("deltaruneChapterRewritten","DELTARUNE: Chapter Rewritten");
+	scr_KSW_AddSeries("Outcore","Outcore: Desktop Adventure");
 	#endregion
 }
