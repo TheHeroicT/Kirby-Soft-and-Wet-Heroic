@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Seastar",
-    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Seastar.yy",
+    "name":"Starfish (Look Outside)",
+    "path":"folders/Kirby ~ Soft & Wet/Fishes/Characters/1.2/Starfish (Look Outside).yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
