@@ -151,6 +151,10 @@ function scr_KSW_SetBobbers()
 	scr_KSW_AddBobber("soulofmight","Soul of Might",spr_KSW_Bobber_SoulOfMight,spr_KSW_Bobber_SoulOfMight_Pal,mage,75,,1,2);
 	scr_KSW_AddBobber("soulofsight","Soul of Sight",spr_KSW_Bobber_SoulOfSight,spr_KSW_Bobber_SoulOfSight_Pal,mint,75,,0,2);
 	scr_KSW_AddBobber("soulofblight","Soul of Blight",spr_KSW_Bobber_SoulOfBlight,spr_KSW_Bobber_SoulOfBlight_Pal,glimmer,75,,1,2);
+	scr_KSW_AddBobber("solarfragment","Solar Fragment",spr_KSW_Bobber_SolarFragment,spr_KSW_Bobber_SolarFragment_Pal,borange,75,,0,0);
+	scr_KSW_AddBobber("vortexfragment","Vortex Fragment",spr_KSW_Bobber_VortexFragment,spr_KSW_Bobber_VortexFragment_Pal,mint,75,,0,1);
+	scr_KSW_AddBobber("nebulafragment","Nebula Fragment",spr_KSW_Bobber_NebulaFragment,spr_KSW_Bobber_NebulaFragment_Pal,flux,75,,1,3);
+	scr_KSW_AddBobber("stardustfragment","Stardust Fragment",spr_KSW_Bobber_StardustFragment,spr_KSW_Bobber_StardustFragment_Pal,mage,75,,0,1);
 	
 	scr_KSW_AddBobber("star","Star",spr_KSW_Bobber_Star,spr_KSW_Bobber_Star_Pal,glimmer,0,snd_KSW_Bobber_Star,0,-4);
 	scr_KSW_AddBobber("darkMind","Dark Mind",spr_KSW_Bobber_DarkMind,spr_KSW_Bobber_DarkMind_Pal,borange,0,,0,-7);
